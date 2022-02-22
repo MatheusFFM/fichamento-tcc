@@ -10,6 +10,16 @@
     
     Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786030
 
+✅ Artigo 4: *Warning-Introducing Commits vs Bug-Introducing Commits: A tool, statistical models, and a preliminary user study*
+    
+    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463031
+
+    Extra: https://github.com/louisq/warningsguru
+
+✅ Artigo 5: *Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub*
+    
+    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9402087
+
 ✅ Artigo 6: *How GitHub Contributing.md Contributes to Contributors*
     
     Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8029680
