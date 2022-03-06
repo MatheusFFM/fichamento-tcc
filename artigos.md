@@ -1,79 +1,97 @@
-✅ Artigo 1: *How Do Software Developers Use GitHub Actions to Automate Their Workflows?*
+Artigo 1: _How Do Software Developers Use GitHub Actions to Automate Their Workflows?_
     
+    Kinsman, Timothy, et al. "How do software developers use GitHub Actions to automate their workflows?." 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR). IEEE, 2021.
+
     Link: https://arxiv.org/abs/2103.12224
 
-✅ Artigo 2: *How Do Software Developers Use GitHub Actions to Automate Their Workflows?*
+Artigo 2: _Assessing Individual Contributions to Software Engineering Projects with Git Logs and User Stories Share on_
     
+    Buffardi, Kevin. (2020). Assessing Individual Contributions to Software Engineering Projects with Git Logs and User Stories. 650-656. 10.1145/3328778.3366948.
+
     Link: https://dl.acm.org/doi/10.1145/3328778.3366948]
 
-✅ Artigo 3: *Technical Debt Triage in Backlog Management*
+Artigo 3: _Technical Debt Triage in Backlog Management_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786030
+    T. Besker, A. Martini and J. Bosch, "Technical Debt Triage in Backlog Management," 2019 IEEE/ACM International Conference on Technical Debt (TechDebt), 2019, pp. 13-22, doi: 10.1109/TechDebt.2019.00010.
 
-✅ Artigo 4: *Warning-Introducing Commits vs Bug-Introducing Commits: A tool, statistical models, and a preliminary user study*
+    Link: https://ieeexplore.ieee.org/document/8786030
+
+Artigo 4: _Warning-Introducing Commits vs Bug-Introducing Commits: A tool, statistical models, and a preliminary user study_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463031
+    L. -P. Querel and P. C. Rigby, "Warning-Introducing Commits vs Bug-Introducing Commits: A tool, statistical models, and a preliminary user study," 2021 IEEE/ACM 29th International Conference on Program Comprehension (ICPC), 2021, pp. 433-443, doi: 10.1109/ICPC52881.2021.00051.
+
+    Link: https://ieeexplore.ieee.org/document/9463031
 
     Extra: https://github.com/louisq/warningsguru
 
-✅ Artigo 5: *Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub*
+Artigo 5: _Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9402087
+    D. Gonzalez, T. Zimmermann, P. Godefroid and M. Schaefer, "Anomalicious: Automated Detection of Anomalous and Potentially Malicious Commits on GitHub," 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2021, pp. 258-267, doi: 10.1109/ICSE-SEIP52600.2021.00035.
 
-✅ Artigo 6: *How GitHub Contributing.md Contributes to Contributors*
+    Link: https://ieeexplore.ieee.org/document/9402087
+
+Artigo 6: _How GitHub Contributing.md Contributes to Contributors_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8029680
+    N. Kobayakawa and K. Yoshida, "How GitHub Contributing.md Contributes to Contributors," 2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC), 2017, pp. 694-696, doi: 10.1109/COMPSAC.2017.139.
 
-✅ Artigo 7: *Mining GitHub: Why Commit Stops*
+    Link: https://ieeexplore.ieee.org/document/8029680
+
+Artigo 7: _Mining GitHub: Why Commit Stops_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6754372
+    Y. Weicheng, S. Beijun and X. Ben, "Mining GitHub: Why Commit Stops -- Exploring the Relationship between Developer's Commit Pattern and File Version Evolution," 2013 20th Asia-Pacific Software Engineering Conference (APSEC), 2013, pp. 165-169, doi: 10.1109/APSEC.2013.133.
 
-✅ Artigo 8: *Mining GitHub: Why Commit Stops*
+    Link: https://ieeexplore.ieee.org/document/6754372
+
+Artigo 8: _Mining Software Engineering Data from GitHub_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7965403
+    G. Gousios and D. Spinellis, "Mining Software Engineering Data from GitHub," 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C), 2017, pp. 501-502, doi: 10.1109/ICSE-C.2017.164.
 
-✅ Artigo 9: *DATA COLLECTION AND ANALYSIS OF GitHub REPOSITORIES AND USERS*
+    Link: https://ieeexplore.ieee.org/document/7965403
+
+Artigo 9: _Data collection and analysis of GitHub repositories and users_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7388026
+    F. Chatziasimidis and I. Stamelos, "Data collection and analysis of GitHub repositories and users," 2015 6th International Conference on Information, Intelligence, Systems and Applications (IISA), 2015, pp. 1-6, doi: 10.1109/IISA.2015.7388026.
 
-✅ Artigo 10: *RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases*
+    Link: https://ieeexplore.ieee.org/document/7388026
+
+Artigo 10: _RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8816794
+    S. D. Joshi and S. Chimalakonda, "RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases," 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), 2019, pp. 587-591, doi: 10.1109/MSR.2019.00088.
 
-✅ Artigo 11: *Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance*
+    Link: https://ieeexplore.ieee.org/document/8816794
+
+Artigo 11: _Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813275
+    D. Chen, K. T. Stolee and T. Menzies, "Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance," 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC), 2019, pp. 179-190, doi: 10.1109/ICPC.2019.00037.
 
-✅ Artigo 12: *Software Process Simulation based on Mining Software Repositories*
+    Link: https://ieeexplore.ieee.org/document/8813275
+
+Artigo 12: _Software Process Simulation Based on Mining Software Repositories_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7022680
+    V. Honsel, D. Honsel and J. Grabowski, "Software Process Simulation Based on Mining Software Repositories," 2014 IEEE International Conference on Data Mining Workshop, 2014, pp. 828-831, doi: 10.1109/ICDMW.2014.35.
 
-✅ Artigo 13: *Software Repository Analysis for  Investigating Design-Code Compliance*
+    Link: https://ieeexplore.ieee.org/document/7022680
+
+Artigo 13: _Software Repository Analysis for Investigating Design-Code Compliance_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6693244
+    K. Ozbas-Caglayan and A. H. Dogru, "Software Repository Analysis for Investigating Design-Code Compliance," 2013 Joint Conference of the 23rd International Workshop on Software Measurement and the 8th International Conference on Software Process and Product Measurement, 2013, pp. 231-234, doi: 10.1109/IWSM-Mensura.2013.40.
 
-✅ Artigo 14: *Multi-discussing Across Issues in GitHub: A Preliminary Study*
+    Link: https://ieeexplore.ieee.org/document/6693244
+
+Artigo 14: _Multi-discussing Across Issues in GitHub: A Preliminary Study_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8719548
+    D. Hu, T. Wang, J. Chang, G. Yin and Y. Zhang, "Multi-Discussing across Issues in GitHub: A Preliminary Study," 2018 25th Asia-Pacific Software Engineering Conference (APSEC), 2018, pp. 406-415, doi: 10.1109/APSEC.2018.00055.
 
-✅ Artigo 15: *History-Driven Fix for Code Quality Issues*
+    Link: https://ieeexplore.ieee.org/document/8719548
+
+Artigo 15: _History-Driven Fix for Code Quality Issues_
     
-    Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795505
+    J. Xue, X. Mao, Y. Lu, Y. Yu and S. Wang, "History-Driven Fix for Code Quality Issues," in IEEE Access, vol. 7, pp. 111637-111648, 2019, doi: 10.1109/ACCESS.2019.2934975.
 
-_Pelo menos 4 artigos devem ter sido publicados veículos da área de Engenharia de Software que se encontram nomeados no documento Veículos da Área (Links para um site externo.). Idealmente, os outros 2 artigos também devem ter sido publicados em conferência ou periódicos que tenham relação com a Engenharia de software. Se o aluno tiver dúvida sobre se a conferência ou periódico tem relação com a área de Engenharia de Software, ele pode fazer uma consulta aos orientadores. Essa restrição é para motivar/incentivar a ênfase ou interseção do trabalho do aluno com trabalhos da área de Engenharia de Software. Dado que o aluno está fazendo o seu Trabalho de Conclusão de Curso (TCC) em um curso de Engenharia de Software, é fundamental que seu trabalho de conclusão trate da literatura dessa área._
+    Link: https://ieeexplore.ieee.org/document/8795505
 
-Artigo X, Artigo X, Artigo X, Artigo X
+Artigo 16: _Using Dynamic and Contextual Features to Predict Issue Lifetime in GitHub Projects_
 
-_Pelo menos 2 artigos devem constar na lista de 10 que se encontra no documento Lista de Artigos Base (Links para um site externo.)._
+    R. Kikas, M. Dumas and D. Pfahl, "Using Dynamic and Contextual Features to Predict Issue Lifetime in GitHub Projects," 2016 IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR), 2016, pp. 291-302.
 
-Artigo 1, Artigo 2
-
-_Pelo menos 4 artigos precisam ter sido publicados em 2021 ou nos últimos 3 anos, ou seja, nos anos de 2020, 2019 ou 2018. Essa restrição é para incentivar e direcionar as leituras e contextualizações do tema em tópicos atuais dentro da área da Engenharia de Software. Considera-se que, se trabalhos no contexto desse tema têm sido publicados em veículos da área nos últimos anos, há evidências de atualidade do tema. Como preconizado na ementa do TCC, isso remete ao conceito de “estado-da-arte” na área de Engenharia de Software e subárea de estudo específica em que o aluno pleiteia atuar._
-
-Artigo 1, Artigo 2, Artigo X, Artigo X
-
-_Pelo menos 4 artigos (sendo pelo menos 2 em inglês) precisam ser diretamente relacionados ao trabalho de interesse do aluno. Há uma lista de tópicos no documento Principais Tópicos em Engenharia de Software (Links para um site externo.). Consideram-se os seguintes critérios para julgar se um artigo é diretamente relacionado: 
-    
-    Link: 1) se ele propõe um método que o aluno acredita que poderá ser reutilizado em seu trabalho; 2) se o artigo trata (especifica, projeta, implementa ou valida) do mesmo software (ou tipo de software) que será tratado pelo aluno; 3) se o artigo trata (expõe, explora ou propõe solução) do mesmo problema que será tratado pelo aluno em seu trabalho; 4) se ele aborda um mesmo processo de desenvolvimento de software que o aluno abordará. Esses critérios são complementares e não são mutuamente exclusivos. Outras formas de relação podem ser observadas pelo aluno. Nesse caso, deve-se consultar o professor para ver se será aceito para cumprir a restrição. Nessa linha, idealmente, o trabalho do aluno permitirá uma reexplorarão, complemento ou comparação com os resultados apresentados nos artigos em questão._ 
-
-Artigo X, Artigo X, Artigo X, Artigo X
+    Link: https://ieeexplore.ieee.org/document/7832909
