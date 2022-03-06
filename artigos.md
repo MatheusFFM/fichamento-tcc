@@ -56,11 +56,11 @@ Artigo 9: _Data collection and analysis of GitHub repositories and users_
 
     Link: https://ieeexplore.ieee.org/document/7388026
 
-Artigo 10: _RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases_
+Artigo 10: _Pull Request Prioritization Algorithm based on Acceptance and Response Probability_
 
-    S. D. Joshi and S. Chimalakonda, "RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases," 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), 2019, pp. 587-591, doi: 10.1109/MSR.2019.00088.
+    M. I. Azeem, Q. Peng and Q. Wang, "Pull Request Prioritization Algorithm based on Acceptance and Response Probability," 2020 IEEE 20th International Conference on Software Quality, Reliability and Security (QRS), 2020, pp. 231-242, doi: 10.1109/QRS51102.2020.00041.
 
-    Link: https://ieeexplore.ieee.org/document/8816794
+    Link: https://ieeexplore.ieee.org/document/9282756
 
 Artigo 11: _Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance_
 
@@ -97,3 +97,5 @@ Artigo 16: _Using Dynamic and Contextual Features to Predict Issue Lifetime in G
     R. Kikas, M. Dumas and D. Pfahl, "Using Dynamic and Contextual Features to Predict Issue Lifetime in GitHub Projects," 2016 IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR), 2016, pp. 291-302.
 
     Link: https://ieeexplore.ieee.org/document/7832909
+
+    Extra: https://github.com/riivo/github-issue-lifetime-prediction
