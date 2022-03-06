@@ -8,9 +8,9 @@ O artigo busca analisar as contribuições individuais em repositórios do GitHu
 
 ## 2. Fichamento Bibliográfico 
 
-* _Social loafing_ é o fenômeno no qual um indivíduo exerce menos esforço para um objetivo coletivo do que ele faria individualmente (página 1). 
-* _interactions_ são ações de comunicação e contato que o indivíduo tem com o seu time (página 2).
-* _contributions_ são ações que fortalecem um repositório, como a realização de _commits_ e iterações com _pull requests_ (página 2).
+* _Social loading_ (carregamento social) é o fenômeno no qual um indivíduo exerce menos esforço para um objetivo coletivo do que ele faria individualmente (página 1). 
+* _interactions_ (interações) são ações de comunicação e contato que o indivíduo tem com o seu time (página 2).
+* _contributions_ (contribuições) são ações que fortalecem um repositório, como a realização de _commits_ e iterações com _pull requests_ (página 2).
 * _Campbell’s Law_ é uma lei que sugere quanto mais medidas quantitativas são enfatizadas na avaliação, mais provavelmente os membros mudarão seus comportamentos para melhorar essas medidas (página 2).
 ## 3. Fichamento de Citações 
 

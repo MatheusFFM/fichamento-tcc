@@ -8,9 +8,9 @@ O artigo busca abordar o problema de prever, em um determinado ponto do tempo um
 
 ## 2. Fichamento Bibliográfico 
 
-* _Sticky issue_ são _issues_ que não foram finalizadas dentro durante o período de observação do trabalho.
-* _Random Forest_ é um classificador que treina várias árvores de decisões nos mesmos dados, mas em cada uma há um conjunto aleatório dos dados.
-* _F1-score_ coloca em evidência casos de modelos abaixo da média, no caso, mesmo que eles identifiquem as _issues_ próximas do fechamento, eles possuem baixa precisão ou revocação.
+* _Sticky issue_ (Problemas fixos) são _issues_ que não foram finalizadas dentro durante o período de observação do trabalho (página 3).
+* _Random Forest_ (Floresta aleatória) é um classificador que treina várias árvores de decisões nos mesmos dados, mas em cada uma há um conjunto aleatório dos dados (página 6).
+* _F1-score_ coloca em evidência casos de modelos abaixo da média, no caso, mesmo que eles identifiquem as _issues_ próximas do fechamento, eles possuem baixa precisão ou revocação (página 6).
 
 ## 3. Fichamento de Citações 
 

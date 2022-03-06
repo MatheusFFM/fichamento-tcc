@@ -9,10 +9,10 @@ O artigo busca mostrar que _commits_ maliciosos podem ser detectados com alta ac
 
 ## 2. Fichamento Bibliográfico 
 
-* _factors_ são propriedades de _commits_ ou contribuidores que podem indicar comportamento suspeito ou incomum, um conjunto de fatores desrespeitados podem indicar algo malicioso.
-* _Arquivos sensíveis_ são todos arquivos de extensões .xml, .json, .jar, .ini, .dat, .cnf, .yml, .toml, .gradle, .bin, .config, .exe, .properties, .cmd, .build
-* _trust factors_ é um valor computado a partir das seguintes propriedades de um contribuidor: nome de usuário identificável, idade da conta, número de commits, tempo desde o primeiro commit, distribuição de tempo de commit e proporção de pull requests rejeitados.
-* _Data pipeline_ é o processo no qual os dados do repositório e dos _commits_ necessários para calcular cada fator são coletados, organizados e armazenados.
+* _Factors_ (fatores) são propriedades de _commits_ ou contribuidores que podem indicar comportamento suspeito ou incomum, um conjunto de fatores desrespeitados podem indicar algo malicioso (página 1).
+* _Sensitive files_ (arquivos sensíveis) são todos arquivos de extensões .xml, .json, .jar, .ini, .dat, .cnf, .yml, .toml, .gradle, .bin, .config, .exe, .properties, .cmd, .build (página 2).
+* _Trust factors_ (fatores de confiança) é um valor computado a partir das seguintes propriedades de um contribuidor: nome de usuário identificável, idade da conta, número de commits, tempo desde o primeiro commit, distribuição de tempo de commit e proporção de pull requests rejeitados (página 3).
+* _Data pipeline_ é o processo no qual os dados do repositório e dos _commits_ necessários para calcular cada fator são coletados, organizados e armazenados (página 2).
 
 ## 3. Fichamento de Citações 
 

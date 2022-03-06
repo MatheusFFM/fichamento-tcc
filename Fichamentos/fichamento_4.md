@@ -1,6 +1,6 @@
-# 
+# Technical Debt Triage in Backlog Management
 
-
+T. Besker, A. Martini and J. Bosch, "Technical Debt Triage in Backlog Management," 2019 IEEE/ACM International Conference on Technical Debt (TechDebt), 2019, pp. 13-22, doi: 10.1109/TechDebt.2019.00010.
 
 ## 1. Fichamento de Conteúdo
 
