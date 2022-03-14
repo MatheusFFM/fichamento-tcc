@@ -99,3 +99,17 @@ Artigo 16: _Using Dynamic and Contextual Features to Predict Issue Lifetime in G
     Link: https://ieeexplore.ieee.org/document/7832909
 
     Extra: https://github.com/riivo/github-issue-lifetime-prediction
+
+
+Artigo 17: _The Sky Is Not the Limit: Multitasking Across GitHub Projects_
+
+    B. Vasilescu et al., "The Sky Is Not the Limit: Multitasking Across GitHub Projects," 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE), 2016, pp. 994-1005, doi: 10.1145/2884781.2884875.
+
+    Link: https://ieeexplore.ieee.org/document/7886974
+
+
+Artigo 18: _An Empirical Study on Using Multi-Labels for Issues in GitHub_
+
+    J. Kim and S. Lee, "An Empirical Study on Using Multi-Labels for Issues in GitHub," in IEEE Access, vol. 9, pp. 134984-134997, 2021, doi: 10.1109/ACCESS.2021.3116061.
+
+    Link: https://ieeexplore.ieee.org/document/9550775
